@@ -1,0 +1,5 @@
+0,0,1,
+
+The training file used was: trainingSet.txt and the testing file used was: myTestSentences.txt
+
+The accuraccy of the predictions is: 2/3 = 0.666667
